@@ -1,4 +1,4 @@
 # CSS-Cooking-Blog-Page = LAB - 5 of CSS and HTML  
- ![](home_screen.jpg)
+ ![](images/home.png)
  
- ![](about_screen.jpg)
+ ![](images/recipe.png)
